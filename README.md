@@ -27,7 +27,7 @@ This project does not require any installation. Simply clone the repository to y
 [Link to live demo](#) (if available)
 
 ## Screenshots
-![Screenshot 1](/images/screenshot.png)
+![Screenshot 1](images/screenshot.PNG)
 
 
 ## Contributing
